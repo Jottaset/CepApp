@@ -1,0 +1,12 @@
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.AssemblyInfo.cs
+/Users/aluno/Projects/CepApp/CepApp/bin/Debug/netstandard2.0/CepApp.deps.json
+/Users/aluno/Projects/CepApp/CepApp/bin/Debug/netstandard2.0/CepApp.dll
+/Users/aluno/Projects/CepApp/CepApp/bin/Debug/netstandard2.0/CepApp.pdb
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.dll
+/Users/aluno/Projects/CepApp/CepApp/obj/Debug/netstandard2.0/CepApp.pdb

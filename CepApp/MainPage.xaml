@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:CepApp" 
+             x:Class="CepApp.MainPage">
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="Enderecos!"
+               FontSize="25"
+               TextColor="Blue"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"/>
+        
+        <Entry Placeholder="digite o Cep..."
+               x:Name="entry_cep"
+               Completed="Handle_Completed"/>
+        
+        <Label Text="Logradouro"
+               FontSize="20"
+               x:Name="lblLogradouro"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Complemento"
+               FontSize="20"
+               x:Name="lblComplemento"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Bairro"
+               FontSize="20"
+               x:Name="lblBairro"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Localidade"
+               FontSize="20"
+               x:Name="lblLocalidade"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Uf"
+               FontSize="20"
+               x:Name="lblUf"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Unidade"
+               FontSize="20"
+               x:Name="lblUnidade"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Ibge"
+               FontSize="20"
+               x:Name="lblIbge"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Label Text="Gia"
+               FontSize="20"
+               x:Name="lblGia"
+               HorizontalOptions="Start" 
+               VerticalOptions="StartAndExpand"/>
+        
+    </StackLayout>
+    
+</ContentPage>

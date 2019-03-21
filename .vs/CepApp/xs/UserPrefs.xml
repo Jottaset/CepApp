@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F4D92EAC-A313-4F38-8A91-AB852A9E9185}|Default">
+  <MonoDevelop.Ide.ItemProperties.CepApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CepApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CepApp/MainPage.xaml.cs" Line="15" Column="71" />
+      <File FileName="CepApp/MainPage.xaml" Line="29" Column="9" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CepApp" expanded="True">
+            <Node name="CepApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CepApp.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CepApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
